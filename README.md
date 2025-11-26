@@ -17,29 +17,8 @@ The game runs in a loop until the player quits or the snake collides with a wall
 To capture screenshots, run the game and take snapshots of the following key moments:
 1. Game Start Screen
 Shows the initial grid with the snake and ball, score = 0.
-##########################################
-#                                        #
-#                                        #
-#                                        #
-#                  O                     #
-#                                        #
-#                                        #
-#                                        #
-#                                        #
-#                                        #
-#                                        #
-#                                        #
-#                                        #
-#                                        #
-#                                        #
-#                                        #
-#                                        #
-#                                        #
-#                                        #
-##########################################
-Score: 0
-High Score: 0
-Use W/A/S/D to move, X to quit
+<img width="304" height="431" alt="Screenshot 2025-11-26 213123" src="https://github.com/user-attachments/assets/fbe19369-f3f6-49a0-98ac-6ad1b6d3e2bc" />
+
 
 
 2. Snake Eating the Ball
