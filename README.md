@@ -41,6 +41,14 @@ Capture the moment when the snake consumes the ball and the score increases.
 After collision, the game clears the screen and displays:
 <img width="207" height="116" alt="Screenshot 2025-11-26 233327" src="https://github.com/user-attachments/assets/24addce8-9cf3-46e8-80c6-a2c1eb29a2d2" />
 
+📂 Project File Structure
+
+Snake-Game/
+│
+├── snake.c         # Main game source code
+├── README.md       # Documentation 
+└── assets/         #Store screen shoots (or) resoirces
+
 You can use the Windows Snipping Tool or PrtScn key to take screenshots and save them as PNG or JPEG files.
 
 **Author**
