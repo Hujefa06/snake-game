@@ -18,12 +18,12 @@ The game runs in a loop until the player quits or the snake collides with a wall
 - WASD and arrow key controls.
 
 🎮 Controls
-   ACTION          KEY
-- Move Up     	W or ↑ arrow
-- Move Down   	S or ↓ arrow
-- Move Left   	A or ← arrow
-- Move Right  	D or → arrow
-- Quit Game	X
+   ACTION                            KEY
+- Move Up                      	W or ↑ arrow
+- Move Down                   	S or ↓ arrow
+- Move Left          	         A or ← arrow
+- Move Right    	               D or → arrow
+-             Quit Game	X
 
 🖼️ Screenshots of the Output
 To capture screenshots, run the game and take snapshots of the following key moments:
