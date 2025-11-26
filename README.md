@@ -43,11 +43,8 @@ After collision, the game clears the screen and displays:
 
 📂 Project File Structure
 
-Snake-Game/
-│
-├── snake.c         # Main game source code
-├── README.md       # Documentation 
-└── assets/         #Store screen shoots (or) resoirces
+<img width="495" height="92" alt="Screenshot 2025-11-27 001037" src="https://github.com/user-attachments/assets/a307ee5b-202a-4ee4-9102-7c76903aeb65" />
+
 
 You can use the Windows Snipping Tool or PrtScn key to take screenshots and save them as PNG or JPEG files.
 
