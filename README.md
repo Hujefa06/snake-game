@@ -6,7 +6,8 @@ Console-Based Snake Game in C with High Score Tracking
 
 📄 Abstract:
 This project is a classic implementation of the Snake game using C programming for the Windows console. The game features a dynamic snake that grows in length as it consumes randomly placed balls (food) within a bounded grid. It includes:
-📌 Features:
+
+📌 Features
 - Real-time keyboard input using conio.h
 - Console graphics with windows.h for cursor control
 - Persistent high score tracking via file I/O
@@ -15,6 +16,7 @@ This project is a classic implementation of the Snake game using C programming f
 The game runs in a loop until the player quits or the snake collides with a wall or itself. It provides a nostalgic gaming experience and demonstrates fundamental programming concepts such as arrays, file handling, and game logic.
 - smooth snake movement and score tracking.
 - WASD and arrow key controls.
+
 🎮 Controls
    ACTION          KEY
 - Move Up     	W or ↑ arrow
