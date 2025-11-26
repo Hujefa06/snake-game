@@ -25,13 +25,10 @@ Shows the initial grid with the snake and ball, score = 0.
 Capture the moment when the snake consumes the ball and the score increases.
 3. Game Over Screen
 After collision, the game clears the screen and displays:
-  ===========================
-       GAME OVER!
-  ===========================
-    Your Score: 40
-    High Score: 50
-  ===========================
+ <img width="332" height="140" alt="Screenshot 2025-11-26 153424" src="https://github.com/user-attachments/assets/1189e794-ab59-400f-8066-a0d144cdbe38" />
 
 
 You can use the Windows Snipping Tool or PrtScn key to take screenshots and save them as PNG or JPEG files.
 
+**Author**
+**N.S.Mahammad.Hujefa**
